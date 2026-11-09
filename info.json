@@ -1,0 +1,9 @@
+{
+  "name": "WePlayMrFusion",
+  "version": "0.1.0",
+  "title": "WePlay: Mr. Fusion",
+  "author": "afewvowels",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
+  "description": "Personal equipment that burns junk from your trash slots (and an optional filter list) and turns it into power for the batteries in your equipment grid."
+}
